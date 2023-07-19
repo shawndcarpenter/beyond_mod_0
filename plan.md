@@ -1,45 +1,45 @@
-# Should include
-- regular routine for hands-on keyboard
-- calendared out time
-# Needs
-- time with family and friends
-- clean living space
-- work from home, desk, setup
-- reflection/commitment to keeping up with health needs (journaling, therapy, exercise, whatever)
-- non-urgent appts
-- grocery, meal planning, eating plan
-- talk with classmates
 # Daily schedule
-- wake up 8am
-- coffee/peanut butter toast
-- daily duties
-- check calendar
-- go shopping if needed
-- food prep if needed
-- lunch
-- go on walk/exercise
-- code wars
-- shower
-- dinner
-- Luna time!!!
-- brush teeth/nightly routine
-# Big Needs:
+*This is what I expect my schedule to look like between now and the start of Mod1. This will all be subject to change, as I have a lot to do while moving in to my new apartment.*
+- 8am - wake up
+- 830am - coffee/breakfast/calendar
+- 9am - daily duties
+    - go shopping if needed
+    - food prep if needed
+- 10am - CodeWars / Odin Project practice
+- 1pm - lunch
+- 2pm - go on walk/exercise
+- 5pm - shower
+- 7pm - dinner
+- 9pm - nightly routine 
+    - journal/meditate
+    - brush teeth
+    - read
+    - playtime with cat
+# Goals
+*These are goals/appointments that I need to get done before Mod1, but do not have scheduled yet.*
+- Set up internet connection
 - Get back on insurance
 - Get back on ADHD medication
 - Go shopping for furnishings
+- Unpack belongings
+- Organize belongings
 - Set up grocery deliveries
 - Come up with meal plans
-# Dates:
-- Cat surgery: July 24th
-- Roommate's birthday: July 24th
-- Friend birthday: July 27th
-- Moveout: July 31st
-- Visiting family: July 31st to August 4th
-- Move in to new place: August 4th
-- Set up house: August 4th-7th
-- Buy new furnishings: August 6th
-- `cleaning supplies, washer/dryer,`
+# Dates
+*These are set dates that I will need to work around.*
+- July 24th - Cat surgery
+- July 24th - Roommate's birthday party
+- July 27th - Friend birthday party
+- July 30th - finish cleaning for moveout
+- July 31st - Moveout
+- July 31st to August 4th - Visiting family
+- August 4th - Move in to new place
+- August 4th to 7th - Set up house
+- August 6th - Buy new furnishings
+- August 21st - Mod 1 Start Date
+
 # I'd like to:
+*These are less important goals that I can do on my own time, and are more for personal fulfillment of social needs and fun.*
 - See as many friends as possible from August 6th through August 20th
 - Reach out to old professors
 - Go see my friends' performances
